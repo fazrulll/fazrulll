@@ -14,9 +14,4 @@ saya adalah seorang mahasiswa jurusan Informatika, Saya senang mempelajari tenta
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fazrulll&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Fazrul Rohman ) 
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
