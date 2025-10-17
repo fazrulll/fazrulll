@@ -1,35 +1,22 @@
-# Biodata
+# 💫 About Me:
+saya adalah seorang mahasiswa jurusan Informatika, Saya senang mempelajari tentang teknologi, khususnya dalam dunia programmer dan kolaborasi di Github
 
-Halo! Berikut adalah biodata singkat saya:
 
-## Nama
-Fazrulll
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ajjuunnn_?igsh=ZWF4eTAzY2ozMGxh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fazrul-rohman-87299a36a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fazrullrohman30@gmail.com) 
 
-## Tentang Saya
-Saya seorang adalah mahasiswa jurusan informatika. Saya senang mempelajari hal-hal baru, khususnya terkait software development, open source, dan kolaborasi di GitHub.
-
-## Informasi Pribadi
-- **Nama Lengkap:** Fazrul rohman
-- **Alamat:** [Des. Situdaun, Kec.Tenjolaya, Kab Bogor]
-- **Email:** [fazrullrohman30@gamail.com]
-- **Tanggal Lahir:** [30 Septeber 2005]
-
-## Pendidikan
-- [ SMA NEGERI 1 TENJOLAYA:]
-  - S1 Informatika,STIKOM  EL RAHMA, [2025]
-
-## Keahlian
-- Microsofet office, Word, Excel
-- Desain CorelDraw
-
-## Pengalaman
-- [Pernah mengikuti Les Computer, Mengikuti Program jual beli di sekolah]
-
-## Kontak
-- GitHub: [https://github.com/fazrulll](https://github.com/fazrulll)
-- LinkedIn: [Fazrul Rohman]
-- Email: [fazrullrohman30@gamail.com]
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=fazrulll&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=fazrulll&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fazrulll&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=fazrulll&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Terima kasih telah membaca biodata saya!
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Fazrul Rohman ) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
