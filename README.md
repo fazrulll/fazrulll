@@ -1,16 +1,35 @@
-## Hi there 👋
+# Biodata
 
-<!--
-**fazrulll/fazrulll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Halo! Berikut adalah biodata singkat saya:
 
-Here are some ideas to get you started:
+## Nama
+Fazrulll
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tentang Saya
+Saya seorang adalah mahasiswa jurusan informatika. Saya senang mempelajari hal-hal baru, khususnya terkait software development, open source, dan kolaborasi di GitHub.
+
+## Informasi Pribadi
+- **Nama Lengkap:** Fazrul rohman
+- **Alamat:** [Des. Situdaun, Kec.Tenjolaya, Kab Bogor]
+- **Email:** [fazrullrohman30@gamail.com]
+- **Tanggal Lahir:** [30 Septeber 2005]
+
+## Pendidikan
+- [ SMA NEGERI 1 TENJOLAYA:]
+  - S1 Informatika,STIKOM  EL RAHMA, [2025]
+
+## Keahlian
+- Microsofet office, Word, Excel
+- Desain CorelDraw
+
+## Pengalaman
+- [Pernah mengikuti Les Computer, Mengikuti Program jual beli di sekolah]
+
+## Kontak
+- GitHub: [https://github.com/fazrulll](https://github.com/fazrulll)
+- LinkedIn: [Fazrul Rohman]
+- Email: [fazrullrohman30@gamail.com]
+
+---
+
+Terima kasih telah membaca biodata saya!
